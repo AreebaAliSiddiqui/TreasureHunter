@@ -1,4 +1,3 @@
-# TreasureHunter
 # Treasure Hunter
 
 Treasure Hunter is a 2D adventure game written in Java.  
