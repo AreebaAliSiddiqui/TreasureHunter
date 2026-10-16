@@ -14,6 +14,20 @@ Originally developed while following [RyiSnow's Java Game Development tutorial s
 - **Audio Integration:** Include background music and sound effects.
 - **Game UI:** Render the game world and interface using Java's graphics libraries.
 
+## 📸 Screenshots
+
+### 🏠 Title Screen
+
+![Treasure Hunter Title Screen](screenshots/treasure-hunter-title-screen.png)
+
+### 🎮 Gameplay
+
+![Treasure Hunter Gameplay](screenshots/treasure-hunter-gameplay.png)
+
+### 🏆 Victory Screen
+
+![Treasure Hunter Victory Screen](screenshots/treasure-hunter-victory-screen.png)
+
 ## 🛠️ Tech Stack
 
 - **Language:** Java
@@ -94,4 +108,5 @@ Computer Science student interested in software engineering, Java development, a
 - [GitHub](https://github.com/AreebaAliSiddiqui)
 - [LinkedIn](https://www.linkedin.com/)
 
-Feedback and suggestions are welcome!
+Feedback and suggestions are welcome!git diff --check
+git diff -- README.md
