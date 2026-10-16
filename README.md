@@ -16,17 +16,17 @@ Originally developed while following [RyiSnow's Java Game Development tutorial s
 
 ## 📸 Screenshots
 
-### 🏠 Title Screen
+<p align="center">
+  <img src="screenshots/treasure-hunter-title-screen.png" alt="Treasure Hunter Title Screen" width="400">
+</p>
 
-![Treasure Hunter Title Screen](screenshots/treasure-hunter-title-screen.png)
+<p align="center">
+  <img src="screenshots/treasure-hunter-gameplay.png" alt="Treasure Hunter Gameplay" width="600">
+</p>
 
-### 🎮 Gameplay
-
-![Treasure Hunter Gameplay](screenshots/treasure-hunter-gameplay.png)
-
-### 🏆 Victory Screen
-
-![Treasure Hunter Victory Screen](screenshots/treasure-hunter-victory-screen.png)
+<p align="center">
+  <img src="screenshots/treasure-hunter-victory-screen.png" alt="Treasure Hunter Victory Screen" width="400">
+</p>
 
 ## 🛠️ Tech Stack
 
