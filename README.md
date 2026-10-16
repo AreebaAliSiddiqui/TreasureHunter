@@ -21,7 +21,7 @@ Originally developed while following [RyiSnow's Java Game Development tutorial s
 </p>
 
 <p align="center">
-  <img src="screenshots/treasure-hunter-gameplay.png" alt="Treasure Hunter Gameplay" width="600">
+  <img src="screenshots/treasure-hunter-gameplay.png" alt="Treasure Hunter Gameplay" width="400">
 </p>
 
 <p align="center">
